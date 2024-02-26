@@ -7,7 +7,7 @@ permalink: /teaching/
 
 ## Teaching
 
-My teaching expertise includes statistics and causal inference methods for policy evaluation and health research, as well as utilizing electronic health records for health informatics. 
+My teaching expertise includes statistics and causal inference methods for policy evaluation and health research, as well as utilizing electronic health records for health informatics.
 
 ### University of Oxford
 <p> </p>
