@@ -1,8 +1,8 @@
 ---
 layout: page
-title: Research
+title: Publications
 menu: main
-permalink: /research/
+permalink: /publications/
 ---
 
 ## Research
