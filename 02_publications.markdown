@@ -6,7 +6,7 @@ permalink: /publications/
 ---
 
 ## Publications
-[Full list of publications](https://scholar.google.com/citations?user=ByPOPPkAAAAJ&hl=en){:target="_blank"}
+[Full list of publications](https://scholar.google.com/citations?user=ByPOPPkAAAAJ&hl=en)
 
 ### Selected publications in peer-reviewed journals
 <p> </p>
