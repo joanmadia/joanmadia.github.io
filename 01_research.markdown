@@ -68,13 +68,3 @@ Our results have significant implications for policy interventions aimed at incr
   </details>
 <p> </p> 
 
-**Temporary GPs and the Effects on Patients' Health Outcomes** \
-Joint work with Francesco Moscone, Catia Nicodemo, Cristina Tealdi, and Cristina Orso
-<details>
-  <summary>Abstract</summary>
-The impact of temporary work has been studied extensively in the literature, but little is known about the implications of temporary work in the healthcare sector. In this paper, we investigate the impact of locum GPs on patients' satisfaction, prescription behaviours, and emergency admissions using a unique dataset that matches the information on temporary contracts for the general practices in England from 2017 to 2021, along with patient satisfaction ratings and psychotropic medication prescriptions. 
-We employ panel data techniques that leverage both the cross-sectional and temporal dimensions of the dataset to analyse the relationship between locum GPs and patients' health outcomes. Our findings indicate that patient satisfaction is lower in practices with more temporary job contracts. This result supports the hypothesis that patients may prefer a less precarious relationship with their healthcare providers.  
-We also find a negative association between the higher share of locums GPs and antibiotic, infection, analgesic, and statin prescriptions and positive effects on mental health. The reduced time that locums GPs may have to engage with their patients may incentivise them to under-prescribe all these types of medications. This suggests that locum doctors may have an adverse impact on the appropriateness of treatments for patients. However, we do not find any significant effect on the number of emergency admissions at the practice level. 
-Our results have significant implications for policy interventions aimed at increasing the flexibility of the labour market in the healthcare sector. Such reforms should also consider the economic and social costs of the changes, including the psychological well-being of patients and the appropriateness of their treatments. Our study highlights the importance of ensuring that temporary work arrangements in healthcare do not compromise the quality of patient care and treatment outcomes.
-  </details>
-<p> </p> 
