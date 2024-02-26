@@ -45,7 +45,7 @@ Stanford House Oxford, Stanford University
 Stata lab, Michaelmas term, Oct.-Jan., 2018
 Dept. of International Development, University of Oxford
 
--**Teaching Assistant in Quant. methods** (undergraduate level) \
+- **Teaching Assistant in Quant. methods** (undergraduate level) \
 Degree in Sociology and International Relations, 2015-2016
 Dept. of Sociology, University of Trento, Italy
 
