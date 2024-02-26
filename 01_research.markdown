@@ -43,7 +43,7 @@ Health and Social Care Delivery Research (HSDR), £580,000, 2023-2026
 **Multi-morbidity, Inequality, and Use of and Access to Health Care (MICA)** \
 Co-investigator \
 Funded by National Institute for Health Research (NIHR) School for \
-Primary Care Research, £62,700, 2021-2024 \
+Primary Care Research, £62,700, 2021-2024 
 <details>
   <summary>Abstract</summary>
   Multi-morbidity is a major challenge with substantial implications for NHS resources. 
