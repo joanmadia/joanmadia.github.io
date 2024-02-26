@@ -80,5 +80,7 @@ This chapter explores how the COVID-19 pandemic has affected the health of migra
 </details>
 <p> </p> 
 
+### Google Scholar
+
 [Full list of publications](https://scholar.google.com/citations?user=ByPOPPkAAAAJ&hl=en)
 
