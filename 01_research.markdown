@@ -11,21 +11,21 @@ permalink: /research/
 <p> </p>
 
 **Incidence and Clinical Characteristics of Virologically Confirmed RSV: An Observational Study of Acute Respiratory Illness (ObservatARI)** \
-Co-investigator, Health Economics work-pagckage,  \
-Funded by Moderna, £4 millions, 2023-2025
+Co-investigator, Health Economics work package,  \
+Funded by Moderna, £4 million, 2023-2025
 <details>
   <summary>Abstract</summary>
 Respiratory syncytial virus (RSV) is a highly infectious seasonal respiratory virus. More precise contemporary data on RSV incidence in the community is needed to assist in planning any new RSV vaccination programme for the elderly.
 To deploy point-of-care-testing (POCT) in primary care to provide contemporary data about incidence, clinical presentation and disease burden of virologically confirmed RSV among adults presenting with acute respiratory infection (ARI).
-Between November 2023-November 2024 we will recruit 21 geographically spread practices in England participating in the RCGP Research Surveillance Centre (RSC) based at the University of Oxford. Practices were selected if they were undertaking reference virology sampling for the RSC and had prior experience with undertaking respiratory illness studies. The staff at each study practice will receive training on the appropriate use of the POCT device from the manufacturer, which will be documented on a training log. We will estimate the incidence rate of RSV and use regression models to describe characteristics of patients with RSV, investigate its clinical features and risk factors, and measure the economic burden of disease.
+Between November 2023 and November 2024 we will recruit 21 geographically spread practices in England participating in the RCGP Research Surveillance Centre (RSC) based at the University of Oxford. Practices were selected if they were undertaking reference virology sampling for the RSC and had prior experience with undertaking respiratory illness studies. The staff at each study practice will receive training on the appropriate use of the POCT device from the manufacturer, which will be documented on a training log. We will estimate the incidence rate of RSV and use regression models to describe the characteristics of patients with RSV, investigate its clinical features and risk factors, and measure the economic burden of disease.
 
 </details>
 <p> </p>  
 
 **Real-world effectiveness of the Oxford/AstraZeneca COVID-19 
 vaccine in England** \
-Co-investigator, Health Economics work-pagckage,  \
-Funded by AstraZeneca £5 millions
+Co-investigator, Health Economics work package,2022-2024  \
+Funded by AstraZeneca £5 million
 <details>
   <summary>Abstract</summary>
 </details>
