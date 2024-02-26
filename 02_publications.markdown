@@ -5,9 +5,10 @@ menu: main
 permalink: /publications/
 ---
 
-## 
+## Publications
+[Full list of publications](https://scholar.google.com/citations?user=ByPOPPkAAAAJ&hl=en){:target="_blank"}
 
-### Selected publications
+### Selected publications in peer-reviewed journals
 <p> </p>
 
 **[Immigration and health outcomes: A study on native health perception and limitations in Europe](https://www.sciencedirect.com/science/article/pii/S026499932300439X)**, 2024, *Economic Modelling* 134, 106627. \
