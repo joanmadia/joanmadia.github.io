@@ -33,7 +33,7 @@ R lab., Hilary term, Mar. 2022 \
 Nuffield Dept. of Primary Health Care, University of Oxford, UK
 
 
-- **Statistics for the Human Science Degree** (undergraduate level) 
+- **Statistics for the Human Science Degree** (undergraduate level) \
 Michaelmas and Hilary terms, 2018-2020 \
 St Benet’s Hall, University of Oxford, UK
 
