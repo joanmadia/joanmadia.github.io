@@ -6,7 +6,7 @@ permalink: /publications/
 ---
 
 ## Publications
-[Full list of publications](https://scholar.google.com/citations?user=ByPOPPkAAAAJ&hl=en)
+
 
 ### Selected publications in peer-reviewed journals
 <p> </p>
@@ -79,4 +79,6 @@ This chapter explores how the COVID-19 pandemic has affected the health of migra
   Parents of better-educated children are healthier and live longer. Is this a non-monetary return to education which crosses generational boundaries, or is this the consequence of unobserved factors (e.g. shared genes or living conditions) driving both children’s education and parental health? Using data from the English Longitudinal Study of Aging (ELSA) and two educational reforms that raised the mandatory school-leaving age from age 14 to 15 years in 1947 and from age 15 to 16 years in 1972, we investigate the causal effect of children’s education on parental longevity. Results suggest that both one-year increases in school-leaving age significantly reduced the hazard of dying for fathers as well as for mothers. We do not find a consistent pattern when comparing differences in the effects of daughters’ and sons’ education. Lower class parents benefitted more from the 1972 reform than higher class parents. We discuss these results against the backdrop of generational conflict and the specific English context.
 </details>
 <p> </p> 
+
+[Full list of publications](https://scholar.google.com/citations?user=ByPOPPkAAAAJ&hl=en)
 
