@@ -41,7 +41,7 @@ St Benet’s Hall, University of Oxford, UK
 Oxford-Stanford exchange programme, 2019 \
 Stanford House Oxford, Stanford University
 
-- **Advanced Quantitative methods** (postgraduate) \
+- **Advanced Quantitative methods** (postgraduate level) \
 Stata lab, Michaelmas term, Oct.-Jan., 2018 \
 Dept. of International Development, University of Oxford
 
