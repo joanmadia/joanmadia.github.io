@@ -5,7 +5,7 @@ menu: main
 permalink: /publications/
 ---
 
-## Research
+## 
 
 ### Selected publications
 <p> </p>
