@@ -24,8 +24,8 @@ Between November 2023 and November 2024 we will recruit 21 geographically spread
 
 **Real-world effectiveness of the Oxford/AstraZeneca COVID-19 
 vaccine in England** \
-Co-investigator, Health Economics work package,2022-2024  \
-Funded by AstraZeneca £5 million
+Co-investigator, Health Economics work package \
+Funded by AstraZeneca £5 million, 2022-2024
 <details>
   <summary>Abstract</summary>
 </details>
