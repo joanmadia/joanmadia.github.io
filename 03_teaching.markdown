@@ -21,7 +21,7 @@ Dept. of Continuing Education, University of Oxford, UK
 Mar. 2024, Oct. 2023, Feb. 2022
 Nuffield Dept. of Primary Health Care, University of Oxford, UK
 
- **Health Econometrics and Policy Evaluation Workshop for NHS** (postgraduate level) \
+- **Health Econometrics and Policy Evaluation Workshop for NHS** (postgraduate level) \
 Nuffield Dept. of Primary Health Care, University of Oxford, UK
 
 - **MSc Advanced Quantitative methods** (postgraduate level) \
