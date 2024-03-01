@@ -21,7 +21,12 @@ Dept. of Continuing Education, University of Oxford, UK
 Mar. 2024, Oct. 2023, Feb. 2022 \
 Nuffield Dept. of Primary Health Care, University of Oxford, UK
 
+- **Healthcare Policy and Programme Evaluation** (postgraduate level) \
+  Apr. 2023 \
+  Brunel Business School London, UK 
+
 - **Health Econometrics and Policy Evaluation Workshop for NHS** (postgraduate level) \
+National Health Service, England, Feb. 2023 \
 Nuffield Dept. of Primary Health Care, University of Oxford, UK
 
 - **MSc Advanced Quantitative methods** (postgraduate level) \
