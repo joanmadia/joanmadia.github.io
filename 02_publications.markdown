@@ -75,7 +75,7 @@ This chapter explores how the COVID-19 pandemic has affected the health of migra
 ### Pre-prints and Working Papers
 <p> </p>
 
-**[Does Children’s Education Improve Parental Longevity? Evidence from Two Educational Reforms in England](https://osf.io/preprints/socarxiv/9n8q5)**, <span style="color:red">*R&R*  \
+**[Does Children’s Education Improve Parental Longevity? Evidence from Two Educational Reforms in England](https://osf.io/preprints/socarxiv/9n8q5)**, <span style="color:red"> *R&R* </span> \
 (joint with Christiaan Monden and Patrick Praeg) 
 <details>
   <summary>Abstract</summary>
