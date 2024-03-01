@@ -53,6 +53,8 @@ Unexpected negative health shocks such as COVID-19 put pressure on households to
 <p> </p>
 
 ### Book chapters
+<p> </p>
+
 **[Ethnicity and Inequality during the COVID-19 Pandemic in the UK](https://www.emerald.com/insight/content/doi/10.1108/S0573-855520220000296012/full/html)**, 2023, *The Economics of COVID-19:Volume 296, Edited by Badi H. Baltagi,
 Francesco Moscone, and Elisa Tosetti* Emerald, 1 June 2022, 978-1-80071-694-0. \
 (joint with Stuart Reading and Catia Nicodemo) 
@@ -71,7 +73,9 @@ This chapter explores how the COVID-19 pandemic has affected the health of migra
 <p> </p> 
 
 ### Pre-prints and Working Papers
-**[Does Children’s Education Improve Parental Longevity? Evidence from Two Educational Reforms in England](https://osf.io/preprints/socarxiv/9n8q5)**, *R&R*
+<p> </p>
+
+**[Does Children’s Education Improve Parental Longevity? Evidence from Two Educational Reforms in England](https://osf.io/preprints/socarxiv/9n8q5)**, *R&R* \
 (joint with Christiaan Monden and Patrick Praeg) 
 <details>
   <summary>Abstract</summary>
@@ -80,7 +84,9 @@ This chapter explores how the COVID-19 pandemic has affected the health of migra
 <p> </p> 
 
 ### Under review 
-**[Ethnicity and Health at Work during the  COVID-19]**, *R&R*
+<p> </p>
+
+**Ethnicity and Health at Work during the  COVID-19**, *R&R* \
 (joint with Francesco Moscone and Catia Nicodemo) 
 <details>
 <summary>Abstract</summary>
@@ -88,14 +94,14 @@ This paper explores how health-work-related illnesses and injuries have changed 
 </details>
 <p> </p> 
 
-**[Ethnicity and Health at Work during the  COVID-19]**, 
+**Ethnicity and Health at Work during the  COVID-19** \
 (joint with Francesco Moscone, Catia Nicodemo, Cristina Tealdi, and Cristina Orso) 
 <summary>Abstract</summary>
 The impact of temporary work has been studied extensively in the literature, but little is known about the implications of temporary work in the healthcare sector. In this paper, we investigate the impact of locum GPs on patients' satisfaction, prescription behaviours, and emergency admissions using a unique dataset that matches the information on temporary contracts for the general practices in England from 2017 to 2021, along with patient satisfaction ratings and psychotropic medication prescriptions. We employ panel data techniques that leverage both the cross-sectional and temporal dimensions of the dataset to analyse the relationship between locum GPs and patients' health outcomes. Our findings indicate that patient satisfaction is lower in practices with more temporary job contracts. This result supports the hypothesis that patients may prefer a less precarious relationship with their healthcare providers. We also find a negative association between the higher share of locums GPs and antibiotic, infection, analgesic, and statin prescriptions and positive effects on mental health. The reduced time that locums GPs may have to engage with their patients may incentivise them to under-prescribe all these types of medications. This suggests that locum doctors may have an adverse impact on the appropriateness of treatments for patients. However, we do not find any significant effect on the number of emergency admissions at the practice level. Our results have significant implications for policy interventions aimed at increasing the flexibility of the labour market in the healthcare sector. Such reforms should also consider the economic and social costs of the changes, including the psychological well-being of patients and the appropriateness of their treatments. Our study highlights the importance of ensuring that temporary work arrangements in healthcare do not compromise the quality of patient care and treatment outcomes.
 </details>
 <p> </p> 
 
-**[Immigration and Healthcare Disparities in Prescription Drugs]**
+**Immigration and Healthcare Disparities in Prescription Drugs** \
 (joint with Luigi Boggian and Catia Nicodemo) 
 <details>
 <summary>Abstract</summary>
@@ -104,6 +110,7 @@ Migrants often face barriers in accessing quality healthcare, leading to unequal
 <p> </p> 
 
 ### Google Scholar
+<p> </p>
 
 [Full list of publications](https://scholar.google.com/citations?user=ByPOPPkAAAAJ&hl=en)
 
