@@ -11,7 +11,7 @@ permalink: /research/
 <p> </p>
 
 **Incidence and Clinical Characteristics of Virologically Confirmed RSV: An Observational Study of Acute Respiratory Illness (ObservatARI)** \
-Co-investigator, Health Economics work package,  \
+Co-investigator, Health Economics work package  \
 Funded by Moderna, £4 million, 2023-2025
 <details>
   <summary>Abstract</summary>
