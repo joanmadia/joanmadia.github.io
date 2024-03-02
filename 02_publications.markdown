@@ -30,7 +30,7 @@ Unexpected negative health shocks such as COVID-19 put pressure on households to
 </details>
 <p> </p>  
 
-**[Diverging mental health after Brexit: Evidence from a longitudinal survey](https://www.sciencedirect.com/science/article/abs/pii/S0277953622002994?via%3Dihub)**, 2022, \ 
+**[Diverging mental health after Brexit: Evidence from a longitudinal survey](https://www.sciencedirect.com/science/article/abs/pii/S0277953622002994?via%3Dihub)**, 2022, \
 *Social Science and Medicine*  302, June 2022, 114993. \
 (joint with Charlotte Herby, Nicolo Cavalli, and Catia Nicodemo) 
 <details>
@@ -39,7 +39,7 @@ Unexpected negative health shocks such as COVID-19 put pressure on households to
 </details>
 <p> </p>
 
-**[Informal care, older people, and COVID-19: Evidence from the UK](https://www.sciencedirect.com/science/article/pii/S0167268122004231)**, 2023, \ 
+**[Informal care, older people, and COVID-19: Evidence from the UK](https://www.sciencedirect.com/science/article/pii/S0167268122004231)**, 2023, \
 *Journal of Economic Behavior and Organization*   205, January 2023, Pages 468-488. \
 (joint with Charlotte Herby, Nicolo Cavalli, and Catia Nicodemo) 
 <details>
