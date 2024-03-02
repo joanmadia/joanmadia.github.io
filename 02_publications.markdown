@@ -60,7 +60,7 @@ Unexpected negative health shocks such as COVID-19 put pressure on households to
 ### Book chapters
 <p> </p>
 
-**[Ethnicity and Inequality during the COVID-19 Pandemic in the UK](https://www.emerald.com/insight/content/doi/10.1108/S0573-855520220000296012/full/html)**, 2023, \ 
+**[Ethnicity and Inequality during the COVID-19 Pandemic in the UK](https://www.emerald.com/insight/content/doi/10.1108/S0573-855520220000296012/full/html)**, 2023, \
 *The Economics of COVID-19:Volume 296, Edited by Badi H. Baltagi, Francesco Moscone, and Elisa Tosetti* Emerald, 1 June 2022, 978-1-80071-694-0. \
 (joint with Stuart Reading and Catia Nicodemo) 
 <details>
@@ -69,7 +69,7 @@ This chapter presents a summary of existent evidence regarding the effects of th
 </details>
 <p> </p> 
 
-**[Migration and Health During COVID-19 Period](https://link.springer.com/referenceworkentry/10.1007/978-3-319-57365-6_361-1)**, 2023, \ 
+**[Migration and Health During COVID-19 Period](https://link.springer.com/referenceworkentry/10.1007/978-3-319-57365-6_361-1)**, 2023, \
 *Handbook of Labor, Human Resources and Population Economics, 1-18, Edited by Klaus F. Zimmermann,* Springer, 2022. \
 (joint with Catia Nicodemo) 
 <details>
