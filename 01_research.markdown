@@ -32,7 +32,7 @@ Funded by AstraZeneca £5 million, 2022-2024
 <p> </p>  
 
 **Waiting times in Emergency Departments: Inequalities and Impact on health outcomes** \
-Co-investigator,  \
+Co-investigator  \
 Funded by the National Institute for Health Research (NIHR) and \
 Health and Social Care Delivery Research (HSDR), £580,000, 2023-2026
 <details>
