@@ -11,7 +11,7 @@ permalink: /publications/
 ### Selected publications in peer-reviewed journals
 <p> </p>
 
-**[Immigration and health outcomes: A study on native health perception and limitations in Europe](https://www.sciencedirect.com/science/article/pii/S026499932300439X)**, 2024, *Economic Modelling* 134, 106627. \
+**[Immigration and health outcomes: A study on native health perception and limitations in Europe](https://www.sciencedirect.com/science/article/pii/S026499932300439X)**, 2024, \ *Economic Modelling* 134, 106627. \
 (joint with Martina Bazzoli, Federico Podesta, and Catia Nicodemo) 
 <details>
   <summary>Abstract</summary>
@@ -20,7 +20,7 @@ This study examines the impact of immigration on the self-perceived health of na
 </details>
 <p> </p>  
 
-**[Studying informal care during the pandemic: mental health, gender and job status](https://www.sciencedirect.com/science/article/pii/S1570677X23000266?via%3Dihub)**, 2023, *Economics & Human Biology* 50, August 2023,101245. \
+**[Studying informal care during the pandemic: mental health, gender and job status](https://www.sciencedirect.com/science/article/pii/S1570677X23000266?via%3Dihub)**, 2023, \ *Economics & Human Biology* 50, August 2023,101245. \
 (joint with Francesco Moscone and Catia Nicodemo) 
 <details>
   <summary>Abstract</summary>
@@ -28,7 +28,7 @@ Unexpected negative health shocks such as COVID-19 put pressure on households to
 </details>
 <p> </p>  
 
-**[Diverging mental health after Brexit: Evidence from a longitudinal survey](https://www.sciencedirect.com/science/article/abs/pii/S0277953622002994?via%3Dihub)**, 2022, *Social Science and Medicine*  302, June 2022, 114993. \
+**[Diverging mental health after Brexit: Evidence from a longitudinal survey](https://www.sciencedirect.com/science/article/abs/pii/S0277953622002994?via%3Dihub)**, 2022, \ *Social Science and Medicine*  302, June 2022, 114993. \
 (joint with Charlotte Herby, Nicolo Cavalli, and Catia Nicodemo) 
 <details>
   <summary>Abstract</summary>
@@ -36,7 +36,7 @@ Unexpected negative health shocks such as COVID-19 put pressure on households to
 </details>
 <p> </p>
 
-**[Informal care, older people, and COVID-19: Evidence from the UK](https://www.sciencedirect.com/science/article/pii/S0167268122004231)**, 2023, *Journal of Economic Behavior and Organization*   205, January 2023, Pages 468-488. \
+**[Informal care, older people, and COVID-19: Evidence from the UK](https://www.sciencedirect.com/science/article/pii/S0167268122004231)**, 2023, \ *Journal of Economic Behavior and Organization*   205, January 2023, Pages 468-488. \
 (joint with Charlotte Herby, Nicolo Cavalli, and Catia Nicodemo) 
 <details>
   <summary>Abstract</summary>
@@ -44,7 +44,7 @@ Unexpected negative health shocks such as COVID-19 put pressure on households to
 </details>
 <p> </p>
 
-**[The impact of school exclusion in childhood on health and well‐being outcomes in adulthood: Estimating causal effects using inverse probability of treatment weighting](https://bpspsychub.onlinelibrary.wiley.com/doi/full/10.1111/bjep.12656)**, 2023, *British Journal of Educational Psychology* , 28 December 2023. \
+**[The impact of school exclusion in childhood on health and well‐being outcomes in adulthood: Estimating causal effects using inverse probability of treatment weighting](https://bpspsychub.onlinelibrary.wiley.com/doi/full/10.1111/bjep.12656)**, 2023, \ *British Journal of Educational Psychology* , 28 December 2023. \
 (joint with Ingrid Obsuth,  Aja L. Murray, Ian Thompson, and Harry Daniels) 
 <details>
   <summary>Abstract</summary>
@@ -55,7 +55,7 @@ Unexpected negative health shocks such as COVID-19 put pressure on households to
 ### Book chapters
 <p> </p>
 
-**[Ethnicity and Inequality during the COVID-19 Pandemic in the UK](https://www.emerald.com/insight/content/doi/10.1108/S0573-855520220000296012/full/html)**, 2023, *The Economics of COVID-19:Volume 296, Edited by Badi H. Baltagi,
+**[Ethnicity and Inequality during the COVID-19 Pandemic in the UK](https://www.emerald.com/insight/content/doi/10.1108/S0573-855520220000296012/full/html)**, 2023, \ *The Economics of COVID-19:Volume 296, Edited by Badi H. Baltagi,
 Francesco Moscone, and Elisa Tosetti* Emerald, 1 June 2022, 978-1-80071-694-0. \
 (joint with Stuart Reading and Catia Nicodemo) 
 <details>
@@ -64,7 +64,7 @@ This chapter presents a summary of existent evidence regarding the effects of th
 </details>
 <p> </p> 
 
-**[Migration and Health During COVID-19 Period](https://link.springer.com/referenceworkentry/10.1007/978-3-319-57365-6_361-1)**, 2023, *Handbook of Labor, Human Resources and Population Economics, 1-18, Edited by Klaus F. Zimmermann,* Springer, 2022. \
+**[Migration and Health During COVID-19 Period](https://link.springer.com/referenceworkentry/10.1007/978-3-319-57365-6_361-1)**, 2023, \ *Handbook of Labor, Human Resources and Population Economics, 1-18, Edited by Klaus F. Zimmermann,* Springer, 2022. \
 (joint with Catia Nicodemo) 
 <details>
   <summary>Abstract</summary>
@@ -72,7 +72,7 @@ This chapter explores how the COVID-19 pandemic has affected the health of migra
 </details>
 <p> </p> 
 
-**[Middle and Below Living Standards: What Can We Learn from Beyond Income Measures of Economic Well-being?](https://academic.oup.com/book/7961/chapter-abstract/153279562?redirectedFrom=fulltext)**, 2018, *Generating Prosperity for Working Families in Affluent Countries, Edited by Brian Nolan,* Oxford University Press, September 2018, 9780191844836. \
+**[Middle and Below Living Standards: What Can We Learn from Beyond Income Measures of Economic Well-being?](https://academic.oup.com/book/7961/chapter-abstract/153279562?redirectedFrom=fulltext)**, 2018, \ *Generating Prosperity for Working Families in Affluent Countries, Edited by Brian Nolan,* Oxford University Press, September 2018, 9780191844836. \
 (joint with Marii Paskov and Tim Goedemé) 
 <details>
   <summary>Abstract</summary>
