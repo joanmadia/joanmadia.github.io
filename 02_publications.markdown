@@ -7,7 +7,6 @@ permalink: /publications/
 
 ## Publications
 
-
 ### Selected publications in peer-reviewed journals
 <p> </p>
 
@@ -84,8 +83,9 @@ This chapter explores how the COVID-19 pandemic has affected the health of migra
 <details>
   <summary>Abstract</summary>
 This chapter complements the income-based measures of living standards on which earlier chapters have focused by incorporating non-income dimensions of economic well-being into its analysis, including indicators of material deprivation, economic burdens, and financial stress. It analyses how working-age households around and below the middle of the income distribution fared in European countries in the years before, during, and after the Great Recession. Harmonized household-level data across the members of the EU are analysed to see whether the evolution of these various non-income measures present a similar or different picture to household incomes over time. To probe what lies behind the patterns this reveals, four quite different countries are then examined in greater depth. Finally, the chapter also explores the relationship between material deprivation for households around and below the middle and overall income inequality.
-<p> </p>
-  
+</details>
+<p> </p> 
+
 ### Pre-prints and Working Papers
 <p> </p>
 
