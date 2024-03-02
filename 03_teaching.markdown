@@ -9,9 +9,6 @@ permalink: /teaching/
 
 My teaching expertise includes statistics and causal inference methods for policy evaluation and health research, as well as utilizing electronic health records for health informatics.
 
-### University of Oxford
-<p> </p>
-
 - **Economics of Health Care** (postgraduate level) \
 Mar. 2024; Mar. 2023  \
 Module on Policy Evaluation Methods for Health Research \
