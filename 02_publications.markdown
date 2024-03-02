@@ -20,7 +20,7 @@ This study examines the impact of immigration on the self-perceived health of na
 </details>
 <p> </p>  
 
-**[Studying informal care during the pandemic: mental health, gender and job status](https://www.sciencedirect.com/science/article/pii/S1570677X23000266?via%3Dihub)**, 2023, *Economics & Human Biology* 50 (August 2023). \
+**[Studying informal care during the pandemic: mental health, gender and job status](https://www.sciencedirect.com/science/article/pii/S1570677X23000266?via%3Dihub)**, 2023, *Economics & Human Biology* 50, August 2023,101245. \
 (joint with Francesco Moscone and Catia Nicodemo) 
 <details>
   <summary>Abstract</summary>
