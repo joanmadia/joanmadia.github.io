@@ -61,7 +61,7 @@ Unexpected negative health shocks such as COVID-19 put pressure on households to
 <p> </p>
 
 **[Ethnicity and Inequality during the COVID-19 Pandemic in the UK](https://www.emerald.com/insight/content/doi/10.1108/S0573-855520220000296012/full/html)**, 2023, \
-*The Economics of COVID-19:Volume 296, Edited by Badi H. Baltagi, Francesco Moscone, and Elisa Tosetti* Emerald, 1 June 2022, 978-1-80071-694-0. \
+*The Economics of COVID-19:Volume 296, Edited by Badi H. Baltagi, Francesco Moscone, and Elisa Tosetti* Emerald, 1 June 2022, 9781800716940. \
 (joint with Stuart Reading and Catia Nicodemo) 
 <details>
   <summary>Abstract</summary>
