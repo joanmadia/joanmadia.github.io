@@ -11,7 +11,7 @@ permalink: /publications/
 ### Selected publications in peer-reviewed journals
 <p> </p>
 
-**[Immigration and health outcomes: A study on native health perception and limitations in Europe](https://www.sciencedirect.com/science/article/pii/S026499932300439X)**, 2024, \ 
+**[Immigration and health outcomes: A study on native health perception and limitations in Europe](https://www.sciencedirect.com/science/article/pii/S026499932300439X)**, 2024, \
 *Economic Modelling* 134, 106627. \
 (joint with Martina Bazzoli, Federico Podesta, and Catia Nicodemo) 
 <details>
@@ -21,7 +21,7 @@ This study examines the impact of immigration on the self-perceived health of na
 </details>
 <p> </p>  
 
-**[Studying informal care during the pandemic: mental health, gender and job status](https://www.sciencedirect.com/science/article/pii/S1570677X23000266?via%3Dihub)**, 2023, \ 
+**[Studying informal care during the pandemic: mental health, gender and job status](https://www.sciencedirect.com/science/article/pii/S1570677X23000266?via%3Dihub)**, 2023, \
 *Economics & Human Biology* 50, August 2023,101245. \
 (joint with Francesco Moscone and Catia Nicodemo) 
 <details>
@@ -48,7 +48,7 @@ Unexpected negative health shocks such as COVID-19 put pressure on households to
 </details>
 <p> </p>
 
-**[The impact of school exclusion in childhood on health and well‐being outcomes in adulthood: Estimating causal effects using inverse probability of treatment weighting](https://bpspsychub.onlinelibrary.wiley.com/doi/full/10.1111/bjep.12656)**, 2023, \ 
+**[The impact of school exclusion in childhood on health and well‐being outcomes in adulthood: Estimating causal effects using inverse probability of treatment weighting](https://bpspsychub.onlinelibrary.wiley.com/doi/full/10.1111/bjep.12656)**, 2023, \
 *British Journal of Educational Psychology* , 28 December 2023. \
 (joint with Ingrid Obsuth,  Aja L. Murray, Ian Thompson, and Harry Daniels) 
 <details>
