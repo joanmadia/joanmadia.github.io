@@ -109,7 +109,7 @@ This paper explores how health-work-related illnesses and injuries have changed 
 </details>
 <p> </p> 
 
-**Ethnicity and Health at Work during the  COVID-19** \
+**Temporary GPs and the Effects on Patients' Health Outcomes** \
 (joint with Francesco Moscone, Catia Nicodemo, Cristina Tealdi, and Cristina Orso) 
 <details>
 <summary>Abstract</summary>
