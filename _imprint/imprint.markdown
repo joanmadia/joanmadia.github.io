@@ -14,10 +14,4 @@ Radcliffe Primary Care Building,
 Radcliffe Observatory Quarter, 
 Woodstock Road, Oxford. OX2 6GG. 
 Tel:  01865 617855
-University of Oxford \
-
-**Nuffield College** \
-University of Oxford \
-New Road \
-Oxford, OX1 1NF \
-United Kingdom
+University of Oxford 
