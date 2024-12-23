@@ -10,6 +10,27 @@ permalink: /publications/
 ### Selected publications in peer-reviewed journals
 <p> </p>
 
+**[Immigrant status and likelihood of opioid treatment. Lessons from Spain’s National Health Service](https://www.sciencedirect.com/science/article/pii/S0167268124003688)**, 2024, \
+*Journal of Economic Behavior & Organization* 227, 106754. \
+(joint with Luigi Boggian, Francesco Moscone, Cristina E. Orso) 
+<details>
+  <summary>Abstract</summary>
+This study investigates opioid prescription patterns among immigrants and native populations in Spain, using novel patient health records from the Base de Datos Clínicos de Atención Primaria (BDCAP). We examined two subsets of data from 2017 and 2018, specifically targeting individuals diagnosed with musculoskeletal (MSK) issues and new cancer diagnoses, as these conditions frequently involve pain management. Our empirical analysis involved estimating a series of linear and count data models to explore the relationship between regions of origin, socioeconomic factors, and the probability of opioid use, controlling for a rich set of health conditions, and primary care centers fixed effects. Despite previously documented healthcare inequities, Spain demonstrates no major differences in opioid prescriptions between immigrants and natives, highlighting the effectiveness of its National Health Service (NHS). This contrasts sharply with the opioid crises in the United States and Canada. The absence of significant disparities underscores the importance of comprehensive healthcare systems and stringent regulations on opioid prescribing practices, as observed in European guidelines. Policy implications include the need to maintain and strengthen public healthcare systems to ensure equitable access to essential medications like opioids and to continue monitoring and regulating opioid prescribing practices to safeguard public health.
+</details>
+<p> </p>  
+
+
+**[Transforming public health and economic outcomes by reducing risky behaviors: the potential for South Korea](https://link.springer.com/article/10.1007/s44155-024-00115-y)**, 2024, \
+*Discover Social Science and Health* 4, 54. \
+(joint with Ji Yoon Baek and Aesun Shin ) 
+<details>
+  <summary>Abstract</summary>
+  
+South Korea faces a diminishing workforce driven by the world's lowest fertility rate, restrictive immigration, and low female labor participation. This paper explores reducing non-communicable diseases from risky behaviors as a solution. We investigate how many cases could be prevented if South Koreans changed risky consumption patterns, and the associated economic healthcare burden impact. Utilizing the Preventable Risk Integrated Model (PRIME), we model hypothetical 2022 reductions in tobacco, alcohol, and unhealthy diet risks to estimate disease case and economic cost impacts. We contrast actual 2022 consumption against a moderate harm reduction scenario. Findings reveal potentially preventing approximately 73,400 new non-communicable disease cases, 69% among working-age Koreans, benefiting the workforce. This reduction could save $13 billion from avoided treatment costs, absenteeism, and premature deaths, including $3.7 billion in 2022 and $9.3 billion in future economic losses. The study emphasizes needing a harm reduction regulatory approach balancing public health and societal realities. We advocate risk-proportionate taxation policies incentivizing consumers toward less harmful alternatives. Given government responsibilities preserving both public health and productivity, smart regulation of risky consumption is critical. This timely research quantifies the significant potential gains from strategic interventions on key risk factors, informing policymakers navigating health promotion and economic objectives.
+</details>
+<p> </p>  
+
+
 **[Immigration and health outcomes: A study on native health perception and limitations in Europe](https://www.sciencedirect.com/science/article/pii/S026499932300439X)**, 2024, \
 *Economic Modelling* 134, 106627. \
 (joint with Martina Bazzoli, Federico Podesta, and Catia Nicodemo) 
