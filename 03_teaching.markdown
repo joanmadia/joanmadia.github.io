@@ -6,17 +6,16 @@ permalink: /teaching/
 ---
 
 ## Teaching
-
 My teaching expertise includes statistics and causal inference methods for policy evaluation and health research, as well as utilizing electronic health records for health informatics.
 
 - **Economics of Health Care** (postgraduate level) \
-Mar. 2024; Mar. 2023  \
+Mar. 2025, Mar. 2024; Mar. 2023  \
 Module on Policy Evaluation Methods for Health Research \
 Dept. of Continuing Education, University of Oxford, UK
 
 - **Health Econometrics and Policy Evaluation Workshop** (postgraduate level) \
-Mar. 2024, Oct. 2023, Feb. 2022 \
-Nuffield Dept. of Primary Health Care, University of Oxford, UK
+Delivered twice per year in Mar. and Oct. (2022–2026)\
+Nuffield Dept. of Primary Care Health Sciences, University of Oxford, UK
 
 - **Healthcare Policy and Programme Evaluation** (postgraduate level) \
   Apr. 2023 \
@@ -24,7 +23,7 @@ Nuffield Dept. of Primary Health Care, University of Oxford, UK
 
 - **Health Econometrics and Policy Evaluation Workshop for NHS** (postgraduate level) \
 National Health Service, England, Feb. 2023 \
-Nuffield Dept. of Primary Health Care, University of Oxford, UK
+Nuffield Dept. of Primary Care Health Sciences, University of Oxford, UK
 
 - **MSc Advanced Quantitative methods** (postgraduate level) \
 Stata lab., Hilary term, Jan.-Mar. 2022 \
@@ -32,7 +31,7 @@ Dept. of Sociology, University of Oxford, UK
 
 - **Interrupted Time Series and Difference-in-Differences** (postgraduate level) \
 R lab., Hilary term, Mar. 2022 \
-Nuffield Dept. of Primary Health Care, University of Oxford, UK
+Nuffield Dept. of Primary Care Health Sciences, University of Oxford, UK
 
 
 - **Statistics for the Human Science Degree** (undergraduate level) \

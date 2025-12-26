@@ -9,7 +9,7 @@ permalink: /publications/
 
 ### Selected publications in peer-reviewed journals
 <p> </p>
-**[Primary healthcare costs associated with the AstraZeneca COVID-19 vaccine in England](https://www.sciencedirect.com/science/article/abs/pii/S0264410X25013659)**, 2024, \
+**[Primary healthcare costs associated with the AstraZeneca COVID-19 vaccine in England](https://www.sciencedirect.com/science/article/abs/pii/S0264410X25013659)**, 2025, \
 *Vaccine* 72, 128067. \
 (joint with Catia Nicodemo, Stavros Petrou and Simon de Lusignan) 
 <details>
