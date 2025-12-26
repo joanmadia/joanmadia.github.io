@@ -9,10 +9,55 @@ permalink: /publications/
 
 ### Selected publications in peer-reviewed journals
 <p> </p>
+**[Primary healthcare costs associated with the AstraZeneca COVID-19 vaccine in England](https://www.sciencedirect.com/science/article/abs/pii/S0264410X25013659)**, 2024, \
+*Vaccine* 72, 128067. \
+(joint with Catia Nicodemo, Stavros Petrou and Simon de Lusignan) 
+<details>
+  <summary>Abstract</summary>
+Current research on the effectiveness of COVID-19 vaccines has demonstrated their role in reducing hospitalizations and deaths due to SARS-CoV-2. However, evidence regarding the healthcare costs incurred by vaccinated versus unvaccinated individuals in the community remains limited, especially in primary care, the first point of access for most patients. This study estimated the total (all-cause) primary healthcare costs for individuals who received the AstraZeneca COVID-19 vaccine (AZD1222) in England between 2020 and 2021. We conducted an economic analysis utilizing electronic primary healthcare records from the Oxford-Royal College of General Practitioners Clinical Informatics Digital Hub (ORCHID) database, with costs valued according to NHS tariffs. Exact coarsened matching in a time-varying setting was employed to balance patient characteristics between the vaccinated and unvaccinated groups. Our results indicate that vaccinated individuals who received the first dose of the AstraZeneca vaccine incurred significantly lower primary healthcare costs compared to their unvaccinated counterparts. Specifically, at 15 days post-vaccination, vaccinated individuals had total costs that were £47.5 (95 % CI: £42.6 to £52.4) lower. This difference increased to £87.1 (95 % CI: £79.6 to £94.6) at 30 days and £124.0 (95 % CI: £114.3 to £133.7) at 45 days post-vaccination, reflecting a reduction of approximately 33.1 % during this period. These findings carry important implications for healthcare budgeting, resource allocation, and pandemic response policies.
+</details>
+<p> </p>  
+
+
+**[Socioeconomic inequality and access to emergency care: understanding the pathways to the emergency department in the UK](https://bmjopen.bmj.com/content/15/12/e108770.full)**, 2025, \
+*BMJ Open* 15, 12. \
+(joint with Catia Nicodemo, Adrian Boyle, James Ray, Alex Novak, Catherine Pope, Bella Wheeler, Stavros Petrou, and Raphael Wittenberg) 
+<details>
+  <summary>Abstract</summary>
+Objective: To examine how socioeconomic deprivation influences referral pathways to emergency departments (EDs) and to assess how these pathways affect subsequent hospital outcomes.
+Design: Retrospective observational study.
+Setting: Emergency department of a large teaching hospital in the East of England, providing secondary and tertiary care.
+Participants: 482 787 ED attendances by patients aged 16 years and over, recorded between January 2019 and December 2023. Patients were assigned Index of Multiple Deprivation (IMD) deciles based on residential postcode.
+Main outcome measures: Referral source (general practitioner (GP), National Health Service (NHS) 111, ambulance, self-referral, other), total ED time, 4-hour breach, hospital admission and unplanned return within 72 hours.
+Results:Substantial socioeconomic inequalities were observed in referral pathways. Patients from the most deprived areas were significantly less likely to be referred by a GP (4.7%) than those from the least deprived areas (14.7%) and more likely to arrive via ambulance (32% vs 24%). These differences persisted after adjusting for demographic, clinical and contextual variables. Ambulance referrals showed the longest ED stays, ranging from 347 to 351 min across IMD deciles (overall 95% CI 343 to 363) and the highest probability of 4-hour breaches (51%; 95% CI 50% to 53%). Self-referrals had the greatest rates of unplanned returns within 7 days (up to 7.1%; 95% CI 5.5% to 8.7%). In contrast, NHS 111 and GP referrals were associated with shorter stays, lower breach rates and fewer reattendances. Minimal variation in outcomes was observed across deprivation levels once referral source was accounted for.
+Conclusions Inequalities in how patients access emergency care, particularly reduced GP and NHS 111 referrals among more deprived groups, appear to underpin disparities in ED outcomes. Referral source captures important clinical and system-level factors that influence patient experience and resource use. Interventions to improve equitable access to structured referral pathways, particularly in more deprived areas, may enhance both the efficiency and fairness of emergency care delivery. Further research using national data is needed to assess broader policy implications and economic costs associated with differential access.
+</details>
+<p> </p>  
+
+**[Overseas general practitioners (GPs) and opioid prescriptions in England](https://www.sciencedirect.com/science/article/pii/S0168851025001186)**, 2025, \
+*Health Policy* 159, 105362. \
+(joint with Catia Nicodemo, Cristina Tealdi, and Cristina E. Orso) 
+<details>
+  <summary>Abstract</summary>
+The substantial recent rise in opioid prescription rates, along with increasing evidence of misuse and associated morbidity and mortality, raises serious concerns about the appropri- ateness of these drugs for pain management. This study investigates prescription behaviour differences across opioid drug categories between UK-trained and overseas-trained GPs. Us- ing panel data covering all English practices from 2018 to 2021, we find a strong association between practices with more overseas GPs and opioid prescription patterns. Regional dif- ferences emerge, with GPs from North America prescribing more opioids and those from Africa and Asia prescribing less, relative to the UK-trained counterparts. Heterogeneous cultural norms, different training environments, and varying epidemiological patterns might explain these different prescribing behaviours. Comprehensive cross-country assessments of GP competencies could identify areas for targeted training, helping to align the practices of foreign-trained GPs with UK standards while supporting the attraction of global talent.
+</details>
+<p> </p>  
+
+
+**[Bridging the pulse: Exploring inequalities in diabetes and hypertension medication prescriptions in Spain’s immigrant and native communities](https://www.sciencedirect.com/science/article/pii/S1570677X2500022X)**, 2025, \
+*Economics & Human Biology* 57, 101489. \
+(joint with Luigi Boggian and Catia Nicodemo) 
+<details>
+  <summary>Abstract</summary>
+Migrants often face barriers in accessing high quality healthcare, leading to unequal treatment. This research investigates the disparities in medication utilization for cardiovascular risk factors between immigrant and native-born populations in Spain. The study specifically examines differences in drug prescriptions for managing diabetes and hypertension, two key contributors to cardiovascular disease. We analyze administrative healthcare records to examine the probability of patients receiving prescriptions for antidiabetic and antihypertensive medications. Additionally, we assess the likelihood of patients undergoing tests to measure glycated hemoglobin levels and blood pressure, two crucial indicators for monitoring diabetes and hypertension management.The analysis is stratified across different levels of medical needs, by also controlling for individual socioeconomic status, physician diagnoses, biometric data and primary care centers fixed effects. The findings reveal that all immigrant groups have lower probabilities of being prescribed medications for diabetes and hypertension and this is especially true for people with higher levels of healthcare needs. These findings underscore the importance of addressing healthcare disparities to achieve more equitable outcomes for immigrant communities.
+</details>
+<p> </p>  
+
+
 
 **[Immigrant status and likelihood of opioid treatment. Lessons from Spain’s National Health Service](https://www.sciencedirect.com/science/article/pii/S0167268124003688)**, 2024, \
 *Journal of Economic Behavior & Organization* 227, 106754. \
-(joint with Luigi Boggian, Francesco Moscone, Cristina E. Orso) 
+(joint with Luigi Boggian, Francesco Moscone, and Cristina E. Orso) 
 <details>
   <summary>Abstract</summary>
 This study investigates opioid prescription patterns among immigrants and native populations in Spain, using novel patient health records from the Base de Datos Clínicos de Atención Primaria (BDCAP). We examined two subsets of data from 2017 and 2018, specifically targeting individuals diagnosed with musculoskeletal (MSK) issues and new cancer diagnoses, as these conditions frequently involve pain management. Our empirical analysis involved estimating a series of linear and count data models to explore the relationship between regions of origin, socioeconomic factors, and the probability of opioid use, controlling for a rich set of health conditions, and primary care centers fixed effects. Despite previously documented healthcare inequities, Spain demonstrates no major differences in opioid prescriptions between immigrants and natives, highlighting the effectiveness of its National Health Service (NHS). This contrasts sharply with the opioid crises in the United States and Canada. The absence of significant disparities underscores the importance of comprehensive healthcare systems and stringent regulations on opioid prescribing practices, as observed in European guidelines. Policy implications include the need to maintain and strengthen public healthcare systems to ensure equitable access to essential medications like opioids and to continue monitoring and regulating opioid prescribing practices to safeguard public health.
@@ -27,6 +72,15 @@ This study investigates opioid prescription patterns among immigrants and native
   <summary>Abstract</summary>
   
 South Korea faces a diminishing workforce driven by the world's lowest fertility rate, restrictive immigration, and low female labor participation. This paper explores reducing non-communicable diseases from risky behaviors as a solution. We investigate how many cases could be prevented if South Koreans changed risky consumption patterns, and the associated economic healthcare burden impact. Utilizing the Preventable Risk Integrated Model (PRIME), we model hypothetical 2022 reductions in tobacco, alcohol, and unhealthy diet risks to estimate disease case and economic cost impacts. We contrast actual 2022 consumption against a moderate harm reduction scenario. Findings reveal potentially preventing approximately 73,400 new non-communicable disease cases, 69% among working-age Koreans, benefiting the workforce. This reduction could save $13 billion from avoided treatment costs, absenteeism, and premature deaths, including $3.7 billion in 2022 and $9.3 billion in future economic losses. The study emphasizes needing a harm reduction regulatory approach balancing public health and societal realities. We advocate risk-proportionate taxation policies incentivizing consumers toward less harmful alternatives. Given government responsibilities preserving both public health and productivity, smart regulation of risky consumption is critical. This timely research quantifies the significant potential gains from strategic interventions on key risk factors, informing policymakers navigating health promotion and economic objectives.
+</details>
+<p> </p>  
+
+**[Ethnicity and health at work during the COVID-19](https://www.sciencedirect.com/science/article/pii/S0166046224001145)**, 2025, \
+*Regional Science and Urban Economics* 111, 104083. \
+(joint with Catia Nicodemo and Francesco Moscone) 
+<details>
+ <summary>Abstract</summary>
+This paper explores how health-work-related illnesses and injuries have changed during the COVID-19 pandemic for different ethnic groups and by gender. We find that not all groups were affected in the same way. While almost all men in all ethnic groups were on average less likely to work during the pandemic period, women were more likely to work. We also find that Mixed Ethnic and Pakistani women who reported a higher probability of working in the reference week had a higher risk of illness/injuries at work. Meanwhile, White men and Other ethnic groups with a reduced probability of working during the pandemic had a lower risk of illness/injuries at work. Long-term illness varied by ethnicity and gender, with men experiencing a reduction and women an increase in physical and mental health issues. This research provides valuable insights into the multifaceted impact of the COVID-19 pandemic on the health and work patterns of different ethnic groups and gender. Understanding and identifying these disparities is crucial for formulating targeted policies aimed at mitigating adverse effects and promoting equitable outcomes in regional studies and urban economics.
 </details>
 <p> </p>  
 

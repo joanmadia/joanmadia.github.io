@@ -22,21 +22,16 @@ Between November 2023 and November 2024 we will recruit 21 geographically spread
 </details>
 <p> </p>  
 
-**Real-world effectiveness of the Oxford/AstraZeneca COVID-19 
-vaccine in England** \
-Co-investigator, Health Economics work package \
-Funded by AstraZeneca £5 million, 2022-2024
-<details>
-  <summary>Abstract</summary>
-</details>
-<p> </p>  
 
 **Waiting times in Emergency Departments: Inequalities and Impact on health outcomes** \
 Co-investigator  \
 Funded by the National Institute for Health Research (NIHR) and \
-Health and Social Care Delivery Research (HSDR), £580,000, 2023-2026
+Health and Social Care Delivery Research (HSDR), £609,000, 2023-2026
 <details>
   <summary>Abstract</summary>
+Crowding and long waiting times in Emergency Departments (EDs) are a major challenge for healthcare systems worldwide. In England, ED attendances reached 25 million in 2019/20, a 17% increase since 2010/11, and in December 2022 over 35% of patients waited more than four hours to be seen. Although deprivation is strongly associated with poorer health and higher ED use, it is unclear whether patients from more deprived areas experience longer waits for unplanned emergency care, or whether longer ED waits are associated with worse health outcomes. Ensuring equitable access to ED care is a key NHS priority, particularly as plans are underway to replace the four-hour waiting time target with alternative performance measures.
+
+This study will provide robust evidence to inform fair and timely ED care. We will: (i) assess inequalities in ED waiting times by deprivation, age, gender, ethnicity and other characteristics; (ii) examine the impact of ED waiting times on patient health outcomes; and (iii) explore how differences in ED organisation influence patient prioritisation and treatment. Quantitative analyses will use anonymised NHS data from 2018–2022, accounting for the COVID-19 pandemic and focusing on both all conditions and deprivation-related conditions such as heart failure, COPD and asthma. Qualitative research will involve observations and interviews with patients, relatives and staff in four English EDs. Findings will be disseminated through patient-friendly summaries, policy briefs, academic publications and stakeholder workshops, supported by strong patient and public involvement throughout the project.
   </details>
 <p> </p>  
 
@@ -57,4 +52,11 @@ Using multivariate analysis and Poisson models, we will estimate the numbers of 
   </details>
 <p> </p> 
 
-
+**Real-world effectiveness of the Oxford/AstraZeneca COVID-19 
+vaccine in England** \
+Co-investigator, Health Economics work package \
+Funded by AstraZeneca £5 million, 2022-2024
+<details>
+  <summary>Abstract</summary>
+</details>
+<p> </p>  
