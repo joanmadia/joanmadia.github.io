@@ -28,7 +28,6 @@ twitter_username: JoanEMadia
 github_username:  joanmadia
 linkedin_username: joan-madia
 author_display: true
-{% include author.html %}
 
 googlescholar_link: https://scholar.google.com/citations?user=ByPOPPkAAAAJ&hl=en
 uni_link: https://www.phc.ox.ac.uk/team/joan-madia
