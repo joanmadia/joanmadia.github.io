@@ -28,6 +28,9 @@ twitter_username: JoanEMadia
 github_username:  joanmadia
 linkedin_username: joan-madia
 author_display: true
+author:
+  name: "Joan Madia"
+  avatar: "/assets/joanmadia.jpg"
 googlescholar_link: https://scholar.google.com/citations?user=ByPOPPkAAAAJ&hl=en
 uni_link: https://www.phc.ox.ac.uk/team/joan-madia
 
@@ -40,11 +43,6 @@ nav_ext_links:
 remote_theme: gaalcaras/academic
 plugins:
   - jekyll-feed
-
-
-  author:
-  name: "Joan Madia"
-  avatar: "/assets/joanmadia.jpg"
 
 # Exclude from processing.
 # The following items will not be processed, by default.
