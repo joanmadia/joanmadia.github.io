@@ -230,29 +230,6 @@ This chapter complements the income-based measures of living standards on which 
 ### Under review 
 <p> </p>
 
-**Workforce Expansion and Persistent Backlogs: A Multivariable Analysis of
-Elective Surgery Waiting Lists in the NHS England**, <span style="color:lime">*R&R*</span> \
-(joint with Cristina Tealdi, Ahmar Shah, Aziz Sheikh, and Catia Nicodemo) 
-<details>
-<summary>Abstract</summary>
-Background: The COVID-19 pandemic exacerbated longstanding challenges within the NHS, contributing to a de-cline in healthcare productivity and a growing backlog of patients on waiting lists. Despite an increase in the NHS
-workforce (compared to January 2023, the full-time equivalent (FTE) medical workforce in England increased by 5.5%, reaching 1,338,753 in January 2024), the waiting list for elective surgery has continued to grow. We investi-
-gated factors contributing to the decline in average complete elective surgery cases and the rise in incomplete elective surgery cases, focusing on workforce dynamics, resource allocation, and systemic inefficiencies.
-Methods: Using data from NHS Digital (2018-2023), we analysed monthly records of waiting lists, workforce numbers, and healthcare system performance. Our primary metrics were the average per capita complete cases, a proxy for productivity, and the ratio of incomplete to average complete cases, a proxy for the additional resources required to meet service demand, calculated at the Trust level. We employed regression and Generalized Method of Moments (GMM) models to assess the impact of variables such as staff sickness rates, administrative turnover, and investment levels on our two key metrics.
-Findings: Key factors that contributed to the backlog were: i) staff sickness rates, a one percentage point increase in the NHS workforce sickness rate was associated with a 4.4% decrease in the number of average complete waiting list cases, holding all else constant; ii) lower administrative turnover, a higher net gain in admin staff reduced backlogs,
-1-unit increase in turnover implied 14.4% decrease in excess incomplete cases.
-Interpretation: Our analysis highlights a complex interplay between workforce capacity, resource allocation, and systemic inefficiencies in the NHS. While increasing the workforce is necessary, it is insufficient to address the growing elective surgery backlog without addressing underlying issues such as staff burnout, turnover, and investment in infrastructure. Policymakers must focus on improving workforce wellbeing and resilience, and optimise resource allocation, to reduce waiting times for elective surgery.
-</details>
-<p> </p> 
-
-**The Economic Burden of COVID-19 Undervaccination: Costs of Hospitalisation, ICU Admission, and Death in Scotland**, <span style="color:lime">*R&R*</span> \
-(joint with Steven Kerr, Aziz Sheikh, and Catia Nicodemo) 
-<details>
-<summary>Abstract</summary>
-The COVID-19 pandemic has imposed substantial financial and operational pressures on healthcare systems globally. While vaccines were known to reduce severe outcomes, their broader economic impacts -especially in publicly funded health systems—requires clearer quantification. This study evaluates the direct healthcare costs associated with COVID-19 outcomes in relation to vaccination status, using linked individual-level data from Scotland's EAVE II cohort (June to September 2022). We defined "under-vaccination" as the shortfall between recommended and received COVID-19 vaccine doses, stratified by age group. Retrospective cohort analysis employing Cox proportional hazards and linear regression models were used to assess the associations between undervaccination and the risk, frequency, and duration of hospitalisation, intensive care unit ICU admission, and death. We also conducted a counterfactual analysis to estimate averted costs and quality-adjusted life years gained (QALYs) under a full vaccination scenario. Findings demonstrate a strong dose–response relationship between undervaccination and severe COVID-19 outcomes. Among individuals aged 75+, those with higher undervaccination levels showed significantly increased hazard ratios for hospitalisation (up to 3.92 for sub-optimal level 2), ICU admission (up to 12.53 for sub-optimal level 2), and mortality (up to 6.63 for sub-optimal level 3). The economic consequences were substantial: hospitalisation costs reached £4.7 million for the 75+ group and £2.6 million for the 16–74 group. Under a full vaccination scenario, potential savings were estimated at £1.4 million for the 75+ group and £0.5 million for the 16–74 group. ICU costs totalled £246,486 for the 16–74 age group and £70,489 for those 75+. Vaccination rates were lower among younger individuals, ethnic minorities, and residents in more deprived areas—highlighting persistent health inequalities. Of the total cohort of 4,992,498 individuals, 65.8% were fully vaccinated on June 1 2022, while 34.2% were undervaccinated. These inequalities were not only clinically consequential but also economically costly: undervaccinated individuals generated more than five-fold the COVID-19 healthcare spend of their fully vaccinated peers, accounting for NHS outlays of £4.7 million in hospital care and £70 k in ICU care among adults 75+ years, and £2.6 million plus £246 k, respectively, among those aged 16–74; universal full vaccination could have averted about £1.4 million (75 +) and £0.5 million (16–74) in hospital costs—and a further £38,000 in ICU costs—during summer 2022 alone.
-</details>
-<p> </p> 
-
 
 **Temporary GPs and the Effects on Patients' Health Outcomes** \
 (joint with Francesco Moscone, Catia Nicodemo, Cristina Tealdi, and Cristina Orso) 
@@ -262,7 +239,15 @@ The impact of temporary work has been studied extensively in the literature, but
 </details>
 <p> </p> 
 
-
+**Gender, Age, and Clinical Decision-Making: Evidence from Mental Health Prescribing in English General Practice** \
+(joint with Francesco Moscone, Catia Nicodemo, Cristina Tealdi, and Cristina Orso) 
+<details>
+<summary>Abstract</summary>
+This paper examines whether physician gender and age influence prescribing behaviour in primary care, with a particular focus on
+mental health treatments. Using a panel dataset of 7,431 general practitioner (GP) practices in England from 2017 to 2024, we analyse how variation in the gender composition of the GP workforce affects prescription patterns. Our empirical strategy exploits within-practice variation over time, controlling for patient demographics, workforce characteristics, and local socioeconomic conditions through fixed effects. We find that a higher share of female GPs is associated with a modest increase in mental health prescribing, but this effect is entirely driven by younger female physicians (under 40). In contrast, older female GPs exhibit no statistically significant association with prescribing behaviour. Importantly, these patterns are specific to mental health medications and do not extend to other drug categories such as antibiotics, statins, or analgesics. Further analysis shows that the effect is stronger in more deprived areas and in practices
+serving younger populations, where diagnostic discretion is likely to be greater. These findings highlight the role of physician cohort and professional socialisation in shaping clinical decision-making, suggesting that workforce composition can influence treatment patterns in domains characterised by uncertainty and subjective assessment.
+</details>
+<p> </p>
 
 ### Google Scholar
 <p> </p>
