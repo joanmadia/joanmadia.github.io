@@ -57,6 +57,6 @@ permalink: /impact/
 <p> </p>
 
 **Keynote Speaker**, 5th International Conference on Economics of Health Risk Prevention, Prague, Czech Republic , **Jun. 2025**   
-[Video](https://www.youtube.com/watch?v=cJLCB2-s7QM)
+[Video](https://www.youtube.com/live/cJLCB2-s7QM?si=GU7lbiOtLDaluNbA)
 
 <p> </p>
