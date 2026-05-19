@@ -8,7 +8,52 @@ permalink: /publications/
 ## Publications
 
 ### Selected publications in peer-reviewed journals
+
+<p> </p> **[Beyond expansion: workforce absence, administration and the persistence of NHS elective backlogs](https://journals.sagepub.com/doi/abs/10.1177/01410768261442040)**, 2026, \ *Journal of the Royal Society of Medicine*. \ (joint with Cristina Tealdi, Ahmar Shah, Aziz Sheikh and Catia Nicodemo) 
+
+<details> 
+  <summary>Abstract</summary> 
+Objective: To identify and quantify key factors driving the decline in efficiency of NHS elective care, focusing on medical workforce dynamics, resource allocation and systemic inefficiencies. We hypothesised that medical workforce sickness absence and administrative turnover significantly affect productivity and backlog growth.
+
+Design: This research is a national retrospective observational study using monthly panel data from NHS Digital (January 2018–December 2023). Ordinary Least Squares regression and Generalised Method of Moments models were applied to estimate the impact of workforce and resource factors on productivity and backlog indicators.
+
+Setting: Secondary care across all NHS Trusts in England.
+
+Results: A one-percentage-point increase in NHS medical workforce sickness rates was associated with a 4.4% decrease in average completed elective cases. Gains in administrative staff reduced excess incomplete elective cases by 14.4%.
+
+Conclusions: Workforce expansion alone will not resolve NHS elective surgery backlogs. Reducing workforce sickness absence and improving administrative capacity are key.
+
+</details> 
+<p> </p> 
+
+**[The economic burden of COVID-19 undervaccination: costs of hospitalisation, ICU admission, and death in Scotland](https://link.springer.com/article/10.1186/s13561-026-00775-3)**, 2026, \ *Health Economics Review*. \ (joint with Steven Kerr, Joan E. Madia, Catia Nicodemo and Aziz Sheikh) 
+<details> 
+  <summary>Abstract</summary> 
+The COVID-19 pandemic has imposed substantial financial and operational pressures on healthcare systems globally. While vaccines were known to reduce severe outcomes, their broader economic impacts, especially in publicly funded health systems, requires clearer quantification. This study evaluates the direct healthcare costs associated with COVID-19 outcomes in relation to vaccination status, using linked individual-level data from Scotland’s EAVE II cohort (June to September 2022). We defined undervaccination as the shortfall between recommended and received COVID-19 vaccine doses, stratified by age group. Retrospective cohort analysis employing Cox proportional hazards and linear regression models was used to assess the associations between undervaccination and the risk, frequency, and duration of hospitalisation, intensive care unit (ICU) admission, and death. We also conducted a counterfactual analysis to estimate averted costs and quality-adjusted life years gained (QALYs) under a full vaccination scenario.
+
+Findings demonstrate a strong dose–response relationship between undervaccination and severe COVID-19 outcomes. Among individuals aged 75+, those with higher undervaccination levels showed significantly increased hazard ratios for hospitalisation (up to 3.92 for sub-optimal level 2), ICU admission (up to 12.53 for sub-optimal level 2), and mortality (up to 6.63 for sub-optimal level 3). These elevated risks translated into substantial direct healthcare costs. Hospitalisation costs reached £4.7 million for the 75+ group and £2.6 million for the 16–74 group, while ICU costs totalled £70,489 and £246,486, respectively. Under a counterfactual full vaccination scenario, potentially avertable hospital costs were estimated at £1.4 million for the 75+ group and £0.5 million for the 16–74 group. Vaccination rates were lower among younger individuals, ethnic minorities, and residents in more deprived areas, highlighting persistent health inequalities. Of the total cohort of 4,992,498 individuals, 65.8% were fully vaccinated on 1 June 2022, while 34.2% were undervaccinated. These inequalities were not only clinically consequential but also economically costly: undervaccinated individuals generated more than five-fold the COVID-19 healthcare spend of their fully vaccinated peers. Universal full vaccination could have averted approximately £1.4 million (75+) and £0.5 million (16–74) in hospital costs, and a further £38,000 in ICU costs, during summer 2022.
+
+
+</details> <p> </p>  **[Epidemiology of virologically confirmed RSV, influenza and COVID-19 in adult primary care patients](https://www.sciencedirect.com/science/article/pii/S0163445326000393)**, 2026, \ *Journal of Infection*. \ (joint with José M. Ordóñez-Mena, Jennifer M. Radin, Uy Hoang, Andre B. Araujo et al.) 
+<details> 
+  <summary>Abstract</summary> Objectives: To describe the positivity, clinical presentation and predictors of respiratory syncytial virus (RSV) in adult primary care patients compared to influenza and SARS-CoV-2, prior to the introduction of RSV vaccines.
+Methods: We analyzed data from primary care patients aged ≥40 years with an acute respiratory infection. Between 02/10/2023 and 10/04/2024 virology swabs were tested by the UK Health Security Agency for RSV, influenza A and B, and SARS-CoV-2. Percent positivity with 95% confidence intervals (CIs) were estimated. Multivariable logistic regression identified predictors of infection. Clinical presentations were described and compared.
+Results: Among 6,161 individuals tested, influenza A had the highest positivity (3.25%, 95% CI: 2.83–3.72), followed by SARS-CoV-2 (2.30%, 95% CI: 1.96–2.71), RSV (2.26%, 95% CI: 1.91–2.66), and influenza B (0.28%, 95% CI: 0.17–0.44). RSV positivity was higher in people aged 60-74 compared to those aged 40-49. RSV cases presented with ILI less often than COVID or influenza A cases.
+Conclusions: During the 2023/24 winter season in England, medically-attended RSV presented a significant disease burden, with a positivity comparable to SARS-CoV-2 and approximately 70% of influenza. Given well-established vaccination programmes for influenza and COVID-19, these findings demonstrate an opportunity to introduce an RSV vaccination programme for adults.
+</details> 
 <p> </p>
+
+
+**[HepB-boost: Implementation of free-of-charge health care worker hepatitis B testing and vaccination in Kenya](https://www.sciencedirect.com/science/article/pii/S1201971226000536)**, 2026, \ *International Journal of Infectious Diseases*. \ (joint with oint with Louise O. Downs, Linus Tinga, Monique I. Andersson, Philippa C. Matthews,Liz Gathua, Malik-Ul-Ashtar Tajbhai, Nancy Kagwanja, and Nadia Aliyan)) 
+<details> 
+  <summary>Abstract</summary> 
+ Objectives: Health care workers (HCWs) are at high risk of hepatitis B virus (HBV) exposure due to contact with blood and bodily fluids. In Kenya, HCWs are rarely fully vaccinated against HBV. During 2024, Kilifi County Referral Hospital (KCRH) in Kenya implemented HCW HBV testing and vaccination. We assess this implementation, including acceptability, feasibility, and costs.
+Methods: A technical working group was formed at KCRH, sensitization was undertaken, and vaccines procured in multi-dose vials. Clinics were run for 2 hours twice weekly over 6 months. Hepatitis B surface antigen testing was available, and vaccination was offered at 0, 1, and 6 months.
+Results: A total of 366 of 574 (64%) of staff received at least one vaccine. Of those attending, the number of fully vaccinated staff increased from 18 of 366 (5%) to 164 of 366 (45%), with 289 of 366 (79%) receiving at least two vaccines. A total of 125 of 366 (35%) were tested for hepatitis B surface antigen and four of 125 (3%) tested positive. The overall cost of the vaccination program was estimated at $4176, with each fully vaccinated person costing $25.45. A lack of HBV monovalent vaccine in multi-dose vials limited vaccination completion.
+Conclusions: HBV vaccination for HCWs was feasible and acceptable at KCRH and could be offered at other similar sized hospitals. Consistent access to HBV monovalent vaccine must be a priority for Kenya.
+</details> <p> </p>
+
+
 **[Primary healthcare costs associated with the AstraZeneca COVID-19 vaccine in England](https://www.sciencedirect.com/science/article/abs/pii/S0264410X25013659)**, 2025, \
 *Vaccine* 72, 128067. \
 (joint with Catia Nicodemo, Stavros Petrou and Simon de Lusignan) 
