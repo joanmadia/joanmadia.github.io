@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Impact
+menu: main
 permalink: /impact/
 ---
 
