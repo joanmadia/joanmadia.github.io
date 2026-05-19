@@ -52,7 +52,7 @@ Conclusions: During the 2023/24 winter season in England, medically-attended RSV
 
 **[HepB-boost: Implementation of free-of-charge health care worker hepatitis B testing and vaccination in Kenya](https://www.sciencedirect.com/science/article/pii/S1201971226000536)**, 2026,  \
 *International Journal of Infectious Diseases*. \
-(joint with oint with Louise O. Downs, Linus Tinga, Monique I. Andersson, Philippa C. Matthews,Liz Gathua, Malik-Ul-Ashtar Tajbhai, Nancy Kagwanja, and Nadia Aliyan)) 
+(joint with oint with Louise O. Downs, Linus Tinga, Monique I. Andersson, Philippa C. Matthews, Liz Gathua, Malik-Ul-Ashtar Tajbhai, Nancy Kagwanja, and Nadia Aliyan) 
 <details> 
   <summary>Abstract</summary> 
  Objectives: Health care workers (HCWs) are at high risk of hepatitis B virus (HBV) exposure due to contact with blood and bodily fluids. In Kenya, HCWs are rarely fully vaccinated against HBV. During 2024, Kilifi County Referral Hospital (KCRH) in Kenya implemented HCW HBV testing and vaccination. We assess this implementation, including acceptability, feasibility, and costs.
